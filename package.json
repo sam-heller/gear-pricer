@@ -1,0 +1,17 @@
+{
+  "name": "gear-pricer",
+  "version": "0.0.0000001",
+  "description": "Hacky utility to perform price comparisons across a couple different used music gear sites",
+  "main": "gearPricer.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sam-heller/gear-pricer."
+  },
+  "author": "sam@faitaccomp.li",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "node-jq": "^1.10.3",
+    "stats-lite": "^2.2.0",
+    "sync-request": "^6.1.0"
+  }
+}
