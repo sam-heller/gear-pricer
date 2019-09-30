@@ -88,7 +88,7 @@ Once you've tweaked the settings, go ahead and run it with
 
 `node gearPricer.js`
 
-It'll output a list of entry names and prices to the console so that you can tweak the exclusions, and dump out a bunch of files in the `output` directory that you can peruse at your leisure.
+It'll output a list of entry names and prices to the console so that you can tweak the exclusions, and dump out a bunch of files in the `output` directory that you can peruse at your leisure. 
 
 
 ```
